@@ -1,2 +1,2 @@
 # myrepo
-tets
+* test
